@@ -13,7 +13,7 @@ Plotly.js can be used to produce dozens of chart types and visualizations, inclu
         <img src="https://raw.githubusercontent.com/cldougl/plot_images/add_r_img/plotly_2017.png">
     </a>
 </p>
-
+ 
 [Contact us](https://plotly.com/products/consulting-and-oem/) for Plotly.js consulting, dashboard development, application integration, and feature additions.
 
 ## Table of contents
